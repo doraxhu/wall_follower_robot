@@ -3,7 +3,7 @@ import os
 from setuptools import find_packages
 from setuptools import setup
 
-package_name = 'wall_follower'
+package_name = 'wall_follower_robot'
 
 setup(
     name=package_name,
